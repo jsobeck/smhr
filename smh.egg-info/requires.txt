@@ -1,0 +1,9 @@
+numpy
+scipy>=0.14.0
+six
+astropy
+pyyaml
+requests
+
+[test]
+coverage
