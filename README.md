@@ -3,7 +3,7 @@
 Spectroscopy Made Harder
 ------------------------
 Gotta pay back that tech debt.
-
+(Modifications by JS beginning Feb2020)
 
 Authors
 -------
@@ -53,3 +53,4 @@ brew install qt@4
 /usr/local/Cellar/qt/4.8.7_1/lib/QtGui.framework/Versions/4/Resources/qt_menu.nib
 ```
 - There are sometimes some problems with segfaults. We hope this will go away when we move away from pyside. Sorry.
+- MOOG and MOOGSILENT must be included in the system PATH (JS has LTE version currently).
