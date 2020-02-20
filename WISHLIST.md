@@ -2,7 +2,8 @@
 
 **WISHLIST**
 
-
+*JS Goal:
+- Change PySide to PySide2
 
 
 *Long-term issues which are high priority (e.g., improve gradually over time):*
